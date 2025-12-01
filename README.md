@@ -45,19 +45,26 @@ Me especializo en el **desarrollo de aplicaciones web robustas** usando Python (
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas Profesionales
 
 <div align="center">
 
-[![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-huallpa&show_icons=true&theme=radical&hide_border=true)](https://github.com/victor-huallpa)
-
-<br/>
-
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-huallpa&layout=compact&theme=radical&hide_border=true)](https://github.com/victor-huallpa)
-
-<br/>
-
+<!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-huallpa&theme=radical&hide_border=true)](https://github.com/victor-huallpa)
+
+<br/>
+
+<!-- Badges de repos, estrellas y seguidores (Shields.io) -->
+<img src="https://img.shields.io/github/repos/victor-huallpa?label=Repositorios&style=for-the-badge&color=4c1"/>
+<img src="https://img.shields.io/github/stars/victor-huallpa?label=Estrellas&style=for-the-badge&color=f1c40f"/>
+<img src="https://img.shields.io/github/followers/victor-huallpa?label=Seguidores&style=for-the-badge&color=blue"/>
+
+<br/>
+
+<!-- Lenguajes principales (Top 3) -->
+<img src="https://img.shields.io/badge/Python-Top%201-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-Top%202-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML/CSS-Top%203-orange?style=for-the-badge"/>
 
 </div>
 
