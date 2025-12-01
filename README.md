@@ -2,7 +2,6 @@
 
 ## 👋 ¡Hola! Soy Victor Hugo Huallpa Huahuacondori (Vech)
 
-<br/> 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=91BFE6&center=true&vCenter=true&width=430&lines=Desarrollador+Full-Stack+%F0%9F%9A%80;Construyendo+con+Python%2C+Django+y+Flask+%F0%9F%90%8D;Creando+interfaces+elegantes+con+JS+y+Bootstrap+%E2%9C%A8;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+%F0%9F%92%A1" alt="Typing SVG" /></a>
 
 </div>
@@ -47,8 +46,12 @@ Como profesional, me gusta medir mi actividad. Aquí puedes ver mis estadística
 <div align="center">
     
 [![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-huallpa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/victor-huallpa)
-
+    
+<br/>
+    
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-huallpa&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/victor-huallpa)
+    
+<br/>
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-huallpa&theme=tokyonight&hide_border=true)](https://github.com/victor-huallpa)
 
