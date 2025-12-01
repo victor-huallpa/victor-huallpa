@@ -2,7 +2,8 @@
 
 ## 👋 ¡Hola! Soy Victor Hugo Huallpa Huahuacondori (Vech)
 
-### <img src="https://media.giphy.com/media/hvRJCLFzWSMSP2GgE1/giphy.gif" width="30px"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=91BFE6&center=true&vCenter=true&width=430&lines=Desarrollador+Full-Stack+%F0%9F%9A%80;Construyendo+con+Python%2C+Django+y+Flask+%F0%9F%90%8D;Creando+interfaces+elegantes+con+JS+y+Bootstrap+%E2%9C%A8;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+%F0%9F%92%A1" alt="Typing SVG" /></a>
+<br/> 
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=91BFE6&center=true&vCenter=true&width=430&lines=Desarrollador+Full-Stack+%F0%9F%9A%80;Construyendo+con+Python%2C+Django+y+Flask+%F0%9F%90%8D;Creando+interfaces+elegantes+con+JS+y+Bootstrap+%E2%9C%A8;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+%F0%9F%92%A1" alt="Typing SVG" /></a>
 
 </div>
 
