@@ -1,79 +1,214 @@
 <div align="center">
 
-## 👋 ¡Hola! Soy Victor Hugo Huallpa Huahuacondori (Vech)
+<img src="./assets/bannerPerfil.png" alt="Banner" width="100%" />
 
-<br>
+<br/><br/>
 
-<!-- GIF animado -->
-<img src="https://media.giphy.com/media/hvRJCLFzWSMSP2GgE1/giphy.gif" width="80px"/>
+Software Engineering Student · Full Stack Developer
 
-<br>
-
-<!-- Typing SVG -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=91BFE6&center=true&width=700&lines=Desarrollador+Full-Stack+%F0%9F%9A%80;Construyendo+con+Python+y+Django+%F0%9F%90%8D;Creando+interfaces+con+JS+y+Bootstrap+%E2%9C%A8)
+Building web applications, interactive tools and software solutions.
 
 </div>
 
 ---
 
-### 🧐 Sobre Mí
-Soy **Desarrollador Full-Stack**, egresado de **SENATI** y actualmente en formación universitaria en la **Universidad Nacional de Juliaca (UNAJ)**.  
+## About Me
 
-Me especializo en el **desarrollo de aplicaciones web robustas** usando Python (Django y Flask) y en la creación de interfaces funcionales y elegantes. Estoy siempre aprendiendo nuevas tecnologías para mejorar mi stack.
+I'm a Software Engineering student from Peru focused on designing and developing software solutions that combine engineering, mathematics and technology.
 
----
+My main interests are:
 
-### 💡 Mi Stack Tecnológico
+- Full Stack Development
+- Software Architecture
+- Algorithms and Data Structures
+- Mathematical Computing
+- Artificial Intelligence
 
-| Categoría | Tecnologías Clave |
-| :--- | :--- |
-| **Lenguajes** | `Python` `JavaScript` `PHP` `C++` `C#` `C` |
-| **Frameworks Backend** | `Django` `Flask` `Laravel` |
-| **Frontend & UI** | `HTML` `CSS` `Bootstrap` |
-| **Bases de Datos** | `MySQL` `MongoDB` |
-| **Otros & Herramientas** | `Git` `Pygame` |
+Currently developing interactive applications and exploring modern software engineering practices.
 
 ---
 
-### 🌟 Proyectos Destacados
-
-* **[My-Profile]** - *Portafolio web personal con HTML, CSS y JS.*  
-  [Ver Demo](https://victor-huallpa.github.io/My-Profile/)
-
-* **[Calculadora Python]** - *Aplicación web de calculadora con Python (Flask).*  
-  [Ver Demo](https://calculadora-python-uaae.onrender.com/)
-
----
-
-### 📊 Mis Estadísticas Profesionales
+## Technical Skills
 
 <div align="center">
 
-<!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-huallpa&theme=radical&hide_border=true)](https://github.com/victor-huallpa)
+### Programming Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=js,php,python,cpp,c,cs" />
 
-<!-- Badges de repos, estrellas y seguidores (Shields.io) -->
-<img src="https://img.shields.io/github/repos/victor-huallpa?label=Repositorios&style=for-the-badge&color=4c1"/>
-<img src="https://img.shields.io/github/stars/victor-huallpa?label=Estrellas&style=for-the-badge&color=f1c40f"/>
-<img src="https://img.shields.io/github/followers/victor-huallpa?label=Seguidores&style=for-the-badge&color=blue"/>
+<br/><br/>
 
-<br/>
+### Frontend Development
 
-<!-- Lenguajes principales (Top 3) -->
-<img src="https://img.shields.io/badge/Python-Top%201-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-Top%202-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML/CSS-Top%203-orange?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+
+<br/><br/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=laravel,django,flask,postgres,mysql,mongodb" />
+
+<br/><br/>
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
 
 </div>
 
 ---
 
-### 🤝 Conéctate Conmigo
+# Featured Project
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-huallpa-huahuacondori-0160132ab/)  
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vech.600@gmail.com)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-huallpa)
+<div align="center">
 
-**¡Gracias por visitar mi rincón digital!**
+## Matrix Calculator
+
+### Interactive Matrix Operations Platform
+
+<img src="./assets/matriz.png" width="75%"/>
+
+</div>
+
+A web application designed to perform, visualize and understand matrix operations through an interactive mathematical interface.
+
+### Main Features
+
+| Feature | Description |
+|---|---|
+| Matrix Operations | Addition, subtraction and multiplication |
+| Mathematical Analysis | Determinants and matrix transformations |
+| Step Visualization | Detailed calculation process |
+| Responsive Design | Adapted for multiple devices |
+| Interactive Interface | Real-time mathematical computation |
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+<a href="https://victor-huallpa.github.io/CALCULADORA-MATRICES/">
+<img src="https://img.shields.io/badge/Live_Demo-Online-success?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/victor-huallpa/CALCULADORA-MATRICES">
+<img src="https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## Other Projects
+
+| Project | Description |
+|---|---|
+| VectorLab | Interactive vector field visualization and mathematical analysis platform |
+| UNAJ IA | Artificial Intelligence academic project |
+| Form Recognition System | Automatic form processing and recognition system |
+| Personal Portfolio | Website developed to showcase projects and technical skills |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-huallpa&theme=github_dark"/>
+</td>
+
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-huallpa&theme=github_dark"/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-huallpa&theme=github_dark" width="95%"/>
+
+</div>
+
+---
+
+## Development Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-huallpa&theme=github-compact&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=victor-huallpa&theme=github-dark&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## Currently Learning
+
+- React ecosystem
+- Software Architecture
+- Docker and DevOps practices
+- Artificial Intelligence
+- Advanced Algorithms
+
+---
+
+## Contact
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+<a href="https://github.com/victor-huallpa">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+</td>
+
+<td>
+<a href="https://www.linkedin.com/in/victor-huallpa-huahuacondori-0160132ab/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+</td>
+
+<td>
+<a href="mailto:vech.600@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering ideas into software solutions."*
+
+</div>
